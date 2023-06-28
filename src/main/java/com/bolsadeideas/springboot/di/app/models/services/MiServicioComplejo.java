@@ -2,7 +2,7 @@ package com.bolsadeideas.springboot.di.app.models.services;
 
 import org.springframework.stereotype.Service;
 
-@Service("miServicioComplejo")
+//@Service("miServicioComplejo")
 public class MiServicioComplejo implements IServicio {
 
 	@Override
